@@ -1,4 +1,4 @@
-# tweaked version from the tutorial
+# first program ive made | from tutorial
 temperature = float(input("What's the temperature outside?: "))
 
 if temperature == 30:
