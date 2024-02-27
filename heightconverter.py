@@ -1,4 +1,4 @@
-# third made | by myself
+# third program made | by myself
 height = float(input("What is your height: "))
 unit = input("Is this in inches (in) or centimeters (cm)?: ")
 
