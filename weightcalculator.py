@@ -1,4 +1,4 @@
-# 2nd program made | from tutorial
+# second program made | from tutorial
 weight = float(input("Weight: "))
 unit = input("(K)g or (L)bs: ")
 if unit.upper() == "K":
