@@ -1,3 +1,6 @@
+# eleventh program made | from Automate the Boring Stuff With Python book 
+# SEE IMPROVED VERSION MODIFIED BY MYSELF IN learning-code/Signup+login/signup+loginV5.py
+
 import random, sys
 
 print("ROCK, PAPER, SCISSORS")
