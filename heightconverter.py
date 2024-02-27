@@ -1,4 +1,4 @@
-# one of the second things learned about python in the tutorial
+# third made | by myself
 height = float(input("What is your height: "))
 unit = input("Is this in inches (in) or centimeters (cm)?: ")
 
