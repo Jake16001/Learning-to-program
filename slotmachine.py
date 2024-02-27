@@ -1,3 +1,4 @@
+# seventh progam made | made from tutorial when bored
 import random
 
 MAX_LINES = 3
