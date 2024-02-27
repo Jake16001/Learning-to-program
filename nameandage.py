@@ -1,4 +1,4 @@
-# program originally from automate the boring stuff for python, but I tweaked it
+# sixth program made | from Automate the Boring Stuff in Python book
 name = str(input("What is your name?: "))
 print("It is nice to meet you " + str(name) + ".")
 print("Your name is " + str(len(name)) + " characters long.")
