@@ -1,4 +1,4 @@
-# first thing completely created on my own
+# fourth program made | on my own
 language = str(input("Can you speak English, Chinese, or French?: "))
 unit = input("Which one?: ")
 
